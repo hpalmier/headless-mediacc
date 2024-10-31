@@ -71,8 +71,8 @@ export default {
 	'By creating an account you agree with our':
 		'By creating an account, you agree with our',
 	'Privacy Policy': 'Privacy Policy',
-	'A list of all your posts. Let’s get you some views! 🚀':
-		'A list of all your posts. Let’s get you some views! 🚀',
+	'A list of all your posts. Letâ€™s get you some views! ðŸš€':
+		'A list of all your posts. Letâ€™s get you some views! ðŸš€',
 	Posts: 'Posts',
 	Post: 'Post',
 	Likes: 'Likes',
@@ -210,7 +210,7 @@ export default {
 		Schedule: 'Schedule',
 		Publish: 'Publish',
 		'Featured image': 'Featured image',
-		'New post title here…': 'New post title here…',
+		'New post title hereâ€¦': 'New post title hereâ€¦',
 		'Remove category': 'Remove category',
 		'Add categories': 'Add categories',
 		Categories: 'Categories',
@@ -218,7 +218,7 @@ export default {
 		'Add tags': 'Add tags',
 		'Add tag': 'Add tag',
 		'Load more tags': 'Load more tags',
-		'Write your post content here…': 'Write your post content here…',
+		'Write your post content hereâ€¦': 'Write your post content hereâ€¦',
 		'The url is not an image, please try again.':
 			'The url is not an image, please try again.',
 		'Upload a file': 'Upload a file',
