@@ -1,11 +1,11 @@
 /*
 Error: wrong number of arguments (1 for 3) for `rgb'
-        on line 151 of D:/Sites Web/mcc2010/headless/NCMAZ_FAUST/front-end/ncmaz-faust/src/styles/__theme_custom.scss
-        from line 6 of D:\Sites Web\mcc2010\headless\NCMAZ_FAUST\front-end\ncmaz-faust\src\styles\index.scss
+        on line 151 of D:/Sites Web/mcc2010/headless/NCMAZ_FAUST/front-end/ncmaz-faust - Copie/src/styles/__theme_custom.scss
+        from line 6 of D:\Sites Web\mcc2010\headless\NCMAZ_FAUST\front-end\ncmaz-faust - Copie\src\styles\index.scss
 
 Backtrace:
-D:/Sites Web/mcc2010/headless/NCMAZ_FAUST/front-end/ncmaz-faust/src/styles/__theme_custom.scss:151
-D:\Sites Web\mcc2010\headless\NCMAZ_FAUST\front-end\ncmaz-faust\src\styles\index.scss:6
+D:/Sites Web/mcc2010/headless/NCMAZ_FAUST/front-end/ncmaz-faust - Copie/src/styles/__theme_custom.scss:151
+D:\Sites Web\mcc2010\headless\NCMAZ_FAUST\front-end\ncmaz-faust - Copie\src\styles\index.scss:6
 C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/3.0.0/gems/sass-3.7.4/lib/sass/script/tree/funcall.rb:311:in `reformat_argument_error'
 C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/3.0.0/gems/sass-3.7.4/lib/sass/script/tree/funcall.rb:158:in `rescue in _perform'
 C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/lib/ruby/gems/3.0.0/gems/sass-3.7.4/lib/sass/script/tree/funcall.rb:127:in `_perform'
@@ -74,4 +74,4 @@ C:/Program Files/Adobe/Adobe Dreamweaver 2021/ruby/bin/sass:23:in `<main>'
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: wrong number of arguments (1 for 3) for `rgb'\A         on line 151 of D:/Sites Web/mcc2010/headless/NCMAZ_FAUST/front-end/ncmaz-faust/src/styles/__theme_custom.scss\A         from line 6 of D:\Sites Web\mcc2010\headless\NCMAZ_FAUST\front-end\ncmaz-faust\src\styles\index.scss"; }
+  content: "Error: wrong number of arguments (1 for 3) for `rgb'\A         on line 151 of D:/Sites Web/mcc2010/headless/NCMAZ_FAUST/front-end/ncmaz-faust - Copie/src/styles/__theme_custom.scss\A         from line 6 of D:\Sites Web\mcc2010\headless\NCMAZ_FAUST\front-end\ncmaz-faust - Copie\src\styles\index.scss"; }
